@@ -1,0 +1,6 @@
+package lab4_1;
+
+public enum DocumentType {
+    BOOK, JOURNAL, THESIS, CONFERENCE, PATENT, LAW,
+    ACHIEVEMENT, MULTIMEDIA, NEWSPAPER, TECH_REPORT, INFO, CASE
+}
